@@ -6,4 +6,4 @@ module.exports = {
     "no-empty": 0,
     "@typescript-eslint/no-var-requires": 0,
   },
-};
+}; 
